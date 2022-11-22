@@ -11,7 +11,7 @@ dgl==0.4.2
 tqdm==4.36.1
 cupy==7.6.0
 librosa==0.8.0
-Pillow==7.2.0
+Pillow==9.3.0
 pycrayon==0.5
 pynvrtc==9.2
 pyrouge==0.1.3
