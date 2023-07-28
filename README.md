@@ -24,16 +24,12 @@ To train & test the DualEnc model, run
 
 ###Citation
 ```
-@inproceedings{zhao-etal-2020-bridging,
-    title = "Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation",
-    author = "Zhao, Chao and Walker, Marilyn and Chaturvedi, Snigdha",
-    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
-    month = jul,
-    year = "2020",
-    address = "Online",
-    publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/2020.acl-main.224",
-    pages = "2481--2491",
+@inproceedings{zhao2020bridging,
+  title={Bridging the structural gap between encoding and decoding for data-to-text generation},
+  author={Zhao, Chao and Walker, Marilyn and Chaturvedi, Snigdha},
+  booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+  pages={2481--2491},
+  year={2020}
 }
 ```
 
