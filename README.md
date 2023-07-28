@@ -22,7 +22,7 @@ To train & test the DualEnc model, run
 `sh pipeline_DualEnc.sh`
 
 
-###Citation
+### Citation
 ```
 @inproceedings{zhao2020bridging,
   title={Bridging the structural gap between encoding and decoding for data-to-text generation},
